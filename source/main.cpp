@@ -6,8 +6,8 @@
 #include <maxmod9.h>
 
 // sounds
-#include "soundbank.h"
-#include "soundbank_bin.h"
+// #include "soundbank.h"
+// #include "soundbank_bin.h"
 
 
 // clrscr function taken from libnds practical wiki https://github.com/NotImplementedLife/libnds-practical-wiki
